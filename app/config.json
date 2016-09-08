@@ -1,0 +1,5 @@
+{
+  "range": [0, 100000],
+  "fileName": "./users.dump.json",
+  "api": "http://test.server.com/api/v2/"
+}
